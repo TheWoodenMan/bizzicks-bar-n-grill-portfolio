@@ -3,6 +3,7 @@
 This site was built using a template as a base, and was the first multi-page website I built.
 
 Link to project: https://bizzicks-bar-grill-portfolio.netlify.app/index.html
+![bizzicks-screenshot](https://user-images.githubusercontent.com/85075266/181400724-d5afeaa1-ebed-4b12-bb34-7390f7fc2ef3.png)
 
 
 ## How It's Made:

@@ -34,6 +34,9 @@ I enjoyed rewiring the template and it was good practice to review and adjust co
 The google maps API was difficult to set up, but I learned a lot about how it works. 
 Ultimately I took it down because it requires a billing agreement in place to maintain.
 
+API Keys require a certain amount of security and should be kept backend only, 
+this was the first project I used one in and it was a good reminder of that.
+
 The site could be further enhanced with an owner login and the abilty to upload and change the pdf menus.
 
 One major flaw with the site - I made it look **TOO** good and can't visit the bar because it's fictional!! 
